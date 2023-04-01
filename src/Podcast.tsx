@@ -2,8 +2,10 @@ function Podcast() {
   return (
     <>
       <div className="text-center">
-        <h2>Podcast?!</h2>
-        <a href="https://baconsale.com/">Click for Da Bacon</a>
+        <h2>My Podcasts</h2>
+        <a href="https://baconsale.com/">
+          Here is a link to my podcasts! Thanks for listening!
+        </a>
       </div>
     </>
   );
